@@ -27,6 +27,8 @@ import java.util.Arrays;
 
 import org.junit.Test;
 
+import uk.co.quartzcraft.skript.variables.FlatFileStorage;
+
 /**
  * @author Peter Güttinger
  */

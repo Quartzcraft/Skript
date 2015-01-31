@@ -25,6 +25,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+import uk.co.quartzcraft.skript.config.Node;
 import ch.njol.util.NonNullPair;
 
 /**

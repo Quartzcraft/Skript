@@ -31,9 +31,11 @@ import org.bukkit.entity.Player;
 import org.bukkit.event.block.Action;
 import org.bukkit.event.player.PlayerInteractEvent;
 
-import ch.njol.skript.config.Config;
-import ch.njol.skript.config.SectionNode;
-import ch.njol.skript.lang.Trigger;
+import uk.co.quartzcraft.skript.ScriptLoader;
+import uk.co.quartzcraft.skript.Skript;
+import uk.co.quartzcraft.skript.config.Config;
+import uk.co.quartzcraft.skript.config.SectionNode;
+import uk.co.quartzcraft.skript.lang.Trigger;
 
 /**
  * @author Peter Güttinger

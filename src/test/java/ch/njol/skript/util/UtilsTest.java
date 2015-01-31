@@ -38,6 +38,8 @@ import java.util.TreeMap;
 
 import org.junit.Test;
 
+import uk.co.quartzcraft.skript.util.Utils;
+
 /**
  * @author Peter Güttinger
  */

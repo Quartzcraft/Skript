@@ -25,6 +25,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+import uk.co.quartzcraft.skript.localization.Noun;
 import ch.njol.util.NonNullPair;
 
 /**
